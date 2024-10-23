@@ -12,11 +12,7 @@
   "enabled": true,
   "timezone": "Australia/Melbourne",
   "schedule": [
-    "after 9am every 3rd monday"
+    "0 10 20 * *"
   ],
-  "packageRules": [{
-    "packageNames": [],
-    "schedule": "after 9am every wednesday"
-  }],
   "ignoreDeps": []
 }
