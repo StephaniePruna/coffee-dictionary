@@ -6,7 +6,6 @@
   "prHourlyLimit": 3,
   "reviewers": ["StephaniePruna"],
   "branchPrefix": "renovate/",
-  "additionalBranchPrefix": "chore-monthly-tools-patching",
   "commitBody": "Montly Tools Patching",
   "commitBodyTable": true,
   "enabled": true,
