@@ -12,7 +12,7 @@
   "enabled": true,
   "timezone": "Australia/Melbourne",
   "schedule": [
-    "0 10 20 * *"
+    "* 10 20 * *"
   ],
   "ignoreDeps": []
 }
